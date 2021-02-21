@@ -6,7 +6,7 @@ control.score <- function(weight.age){
 }
 
 case.score <- function(weight.age){
-  return (-log(weight.age)-0.5)
+  return (-log(weight.age)+0.5)
 }
 
 # linear age weight
