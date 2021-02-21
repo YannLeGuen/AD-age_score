@@ -6,12 +6,16 @@ current doi: https://doi.org/10.1101/2021.01.05.21249292
 
 This repository contains:
 
-- a snippet to compute the proposed AD-age scores
+- a snippet to compute the proposed AD-age scores:
+
 AD-age_score_snippet.R
 
-- scripts to performs the statistical power simulation used to generate data to plot Figures 1, S1, S2, S3.
+- scripts to performs the statistical power simulation used to generate data to plot Figures 1, S1, S2, S3:
+
 statistical_power_simulation_Fig1_S1.R # Figures 1 & S1
+
 statistical_power_simulation_FigS2.R # Figure S2
+
 statistical_power_simulation_Type_I_Error.R # Figure S3
 
 
